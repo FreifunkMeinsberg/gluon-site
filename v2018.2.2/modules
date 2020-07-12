@@ -1,0 +1,10 @@
+GLUON_SITE_FEEDS='tecff'
+
+# gluon-ssid-changer
+#PACKAGES_SSIDCHANGER_REPO=https://github.com/Freifunk-Nord/gluon-ssid-changer
+#PACKAGES_SSIDCHANGER_COMMIT=7b5b7cab11d186696b4d2319f74145b0aaeb0c3c
+#PACKAGES_SSIDCHANGER_BRANCH=2018.1.x
+#
+PACKAGES_TECFF_REPO=https://github.com/tecff/gluon-packages.git
+PACKAGES_TECFF_BRANCH=v2020.1.x
+PACKAGES_TECFF_COMMIT=7a0e2be2cb19a43a14ae9b20bb67dd456ac0d8f0
